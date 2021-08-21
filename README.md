@@ -1,5 +1,6 @@
 # Delivery-Bot
-This is an autonomous bot ,which uses line follower technique to deliver the packages to the end locations.
+This section is part two of cargo delivery system,in this section working of delivery bot for cargo delivery system is shown. 
+Delivery Bot is an autonomous bot ,which uses line follower technique to deliver the packages to the end locations.
 
 Components Required for Delivery Bot
 
