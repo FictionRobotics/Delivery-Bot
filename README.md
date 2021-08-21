@@ -1,2 +1,5 @@
 # Delivery-Bot
-This code is for delivery bot of our cargo delivery system
+This is an autonomous bot ,which uses line follower technique to deliver the packages to the end locations.
+
+components used:
+
